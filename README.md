@@ -1,16 +1,5 @@
-# flutter_ap
+# QAPP
 
-A new Flutter application.
+A mobile (android and ios) pass questions and answers application for Nigerian University students
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot](https://github.com/Dverybest/flutter_app/blob/master/Screenshot_2019-03-27-12-55-07.png) ![screenshot](https://github.com/Dverybest/flutter_app/blob/master/Screenshot_2019-03-27-12-55-21.png)
